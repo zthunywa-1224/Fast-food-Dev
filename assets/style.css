@@ -20,7 +20,9 @@ nav a {
     padding: .5rem 1rem;
 }
 
-.card-body nav a:hover {
+
+
+nav a:hover {
     color: lightgreen;
 }
 

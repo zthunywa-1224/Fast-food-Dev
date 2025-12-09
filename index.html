@@ -63,7 +63,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 script>
 <script>
-  fetch('navbar.html')
+  fetch('/includes/navbar.html')
     .then(r => r.text())
     .then(html => document.getElementById('navbar-placeholder').innerHTML = html)
     .catch(e => console.error('Navbar load failed:', e));

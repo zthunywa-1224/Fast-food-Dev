@@ -1,0 +1,842 @@
+Downloads/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+master)
+$ git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+d
+nied
+ed
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied       
+warning: could not open directory 'Templates/': Permission denied        
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)  
+        modified:   ../../../.bash_history
+        modified:   ../../../.gitconfig
+        modified:   ../../../.gk/repoMapping.json
+        deleted:    ../Fast-food/assets/img/classic-burder-2.jpg
+        deleted:    ../Fast-food/assets/img/classic-burger-1.jpeg        
+        deleted:    ../Fast-food/assets/img/crispy-fries.jpeg
+        deleted:    ../Fast-food/assets/img/home-made-fries.jpg
+        deleted:    ../Fast-food/assets/img/margherita-pizza.jpg
+        deleted:    ../Fast-food/assets/style.css
+        deleted:    ../Fast-food/index.html
+        modified:   ../code-collector/about.html
+        modified:   ../code-collector/product.html
+        deleted:    ../html5-upforty/html5up-forty/LICENSE.txt
+        deleted:    ../html5-upforty/html5up-forty/README.txt
+-all.min.css
+        deleted:    ../html5-upforty/html5up-forty/assets/css/main.css
+s
+min.js
+js
+s
+lex.min.js
+ly.min.js
+        deleted:    ../html5-upforty/html5up-forty/assets/js/main.js     
+        deleted:    ../html5-upforty/html5up-forty/assets/js/util.js     
+.scss
+t.scss
+graphy.scss
+/_actions.scss
+/_box.scss
+/_button.scss
+/_contact-method.scss
+/_form.scss
+/_icon.scss
+/_icons.scss
+/_image.scss
+/_list.scss
+/_pagination.scss
+/_row.scss
+/_section.scss
+/_spotlights.scss
+/_table.scss
+/_tiles.scss
+nner.scss
+ntact.scss
+oter.scss
+ader.scss
+in.scss
+nu.scss
+apper.scss
+kpoints.scss
+tions.scss
+-grid.scss
+ns.scss
+.scss
+or.scss
+        deleted:    ../html5-upforty/html5up-forty/assets/sass/main.scss 
+css
+nds-400.eot
+nds-400.svg
+nds-400.ttf
+nds-400.woff
+nds-400.woff2
+ular-400.eot
+ular-400.svg
+ular-400.ttf
+ular-400.woff
+ular-400.woff2
+id-900.eot
+id-900.svg
+id-900.ttf
+id-900.woff
+id-900.woff2
+svg
+        deleted:    ../html5-upforty/html5up-forty/elements.html
+        modified:   ../html5-upforty/html5up-forty/generic.html
+peg
+jpg
+eg
+        deleted:    ../html5-upforty/html5up-forty/images/Chicken-1.jpeg 
+        deleted:    ../html5-upforty/html5up-forty/images/banner.jpg     
+pg
+at-price.jpg
+jpg
+eg
+        deleted:    ../html5-upforty/html5up-forty/images/chicken-2.jpg  
+        deleted:    ../html5-upforty/html5up-forty/images/chicken-3.png  
+        deleted:    ../html5-upforty/html5up-forty/images/chicken-4.jpg  
+        deleted:    ../html5-upforty/html5up-forty/images/chicken-5.jpg  
+        deleted:    ../html5-upforty/html5up-forty/images/chicken-6.jpg  
+eg
+        deleted:    ../html5-upforty/html5up-forty/images/pic01.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic02.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic03.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic04.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic05.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic06.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic07.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic08.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic09.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic10.jpg      
+        deleted:    ../html5-upforty/html5up-forty/images/pic11.jpg      
+        deleted:    ../html5-upforty/html5up-forty/index.html
+        deleted:    ../html5-upforty/html5up-forty/landing.html
+        deleted:    ../html5-upforty/html5up-forty/style.css
+        deleted:    ../../../Readme.md
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../../.bash_profile
+        ../../../.gitignore
+        ../../../.lesshst
+        ../../../.viminfo
+4.9.2/dist/typeshed-fallback/stubs/pywin32/win32uiole.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/win32wnet.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winerror.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winioctlcon.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winnt.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winperf.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winxpgui.pyi
+4.9.2/dist/typeshed-fallback/stubs/pywin32/winxptheme.pyi
+4.9.2/dist/typeshed-fallback/stubs/pyxdg/
+4.9.2/dist/typeshed-fallback/stubs/qrbill/
+4.9.2/dist/typeshed-fallback/stubs/qrcode/
+4.9.2/dist/typeshed-fallback/stubs/redis/
+4.9.2/dist/typeshed-fallback/stubs/regex/
+4.9.2/dist/typeshed-fallback/stubs/reportlab/
+4.9.2/dist/typeshed-fallback/stubs/requests-oauthlib/
+4.9.2/dist/typeshed-fallback/stubs/requests/
+4.9.2/dist/typeshed-fallback/stubs/retry/
+4.9.2/dist/typeshed-fallback/stubs/s2clientprotocol/
+4.9.2/dist/typeshed-fallback/stubs/seaborn/
+4.9.2/dist/typeshed-fallback/stubs/setuptools/
+4.9.2/dist/typeshed-fallback/stubs/shapely/
+4.9.2/dist/typeshed-fallback/stubs/simplejson/
+4.9.2/dist/typeshed-fallback/stubs/singledispatch/
+4.9.2/dist/typeshed-fallback/stubs/six/
+4.9.2/dist/typeshed-fallback/stubs/slumber/
+4.9.2/dist/typeshed-fallback/stubs/str2bool/
+4.9.2/dist/typeshed-fallback/stubs/tabulate/
+4.9.2/dist/typeshed-fallback/stubs/toml/
+4.9.2/dist/typeshed-fallback/stubs/toposort/
+4.9.2/dist/typeshed-fallback/stubs/tqdm/
+4.9.2/dist/typeshed-fallback/stubs/translationstring/
+4.9.2/dist/typeshed-fallback/stubs/tree-sitter-languages/
+4.9.2/dist/typeshed-fallback/stubs/ttkthemes/
+4.9.2/dist/typeshed-fallback/stubs/uWSGI/
+4.9.2/dist/typeshed-fallback/stubs/ujson/
+4.9.2/dist/typeshed-fallback/stubs/unidiff/
+4.9.2/dist/typeshed-fallback/stubs/untangle/
+4.9.2/dist/typeshed-fallback/stubs/usersettings/
+4.9.2/dist/typeshed-fallback/stubs/vobject/
+4.9.2/dist/typeshed-fallback/stubs/waitress/
+4.9.2/dist/typeshed-fallback/stubs/whatthepatch/
+4.9.2/dist/typeshed-fallback/stubs/workalendar/
+4.9.2/dist/typeshed-fallback/stubs/wurlitzer/
+4.9.2/dist/typeshed-fallback/stubs/xmltodict/
+4.9.2/dist/typeshed-fallback/stubs/zstd/
+4.9.2/dist/typeshed-fallback/stubs/zxcvbn/
+4.9.2/dist/vendor.bundle.js
+4.9.2/dist/vendor.bundle.js.LICENSE.txt
+4.9.2/images/
+4.9.2/package.json
+4.9.2/package.nls.cs.json
+4.9.2/package.nls.de.json
+4.9.2/package.nls.es.json
+4.9.2/package.nls.fr.json
+4.9.2/package.nls.it.json
+4.9.2/package.nls.ja.json
+4.9.2/package.nls.json
+4.9.2/package.nls.ko.json
+4.9.2/package.nls.pl.json
+4.9.2/package.nls.pt-br.json
+4.9.2/package.nls.qps-ploc.json
+4.9.2/package.nls.ru.json
+4.9.2/package.nls.tr.json
+4.9.2/package.nls.zh-cn.json
+4.9.2/package.nls.zh-tw.json
+4.9.2/packages.config
+4.9.2/sign.proj
+024100401-win32-x64/
+1.2/
+-1.0.19/
+ll-tags-0.1.9/
+ideshow-0.1.6/
+0/
+web-1.6.2/
+11.1/
+        ../../../.vscode-insiders/extensions/ritwickdey.liveserver-5.7.9/
+/
+-6.1.0/
+tag-0.11.0/
+        ../../../.vscode/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../../Downloads/-engineers-repair-center
+        ../../../Downloads/-original-maize-meal.jpeg.jpeg
+        ../../../Downloads/.dbxignore
+        ../../../Downloads/.media-device.jpeg.jpeg
+        ../../../Downloads/02.jpg
+        ../../../Downloads/03.jpg
+        ../../../Downloads/039glhrk.png
+        ../../../Downloads/04.jpg
+        ../../../Downloads/05.jpg
+        ../../../Downloads/06.jpeg.jpg
+        ../../../Downloads/08 - Copy.jpg
+        ../../../Downloads/08.jpg
+        ../../../Downloads/10.jpg
+        ../../../Downloads/152522-803189119_small.mp4
+        ../../../Downloads/17_Unisa_Architecture.jpg
+        ../../../Downloads/1st-pizza.jpeg
+        ../../../Downloads/2025-04-27 16-29-28.mkv
+        ../../../Downloads/2cheap-cars.jpeg
+        ../../../Downloads/2nd-pizza.jpeg
+        ../../../Downloads/2nd=desert.jpeg
+        ../../../Downloads/317714_video_youtube_icon (1).png
+        ../../../Downloads/317714_video_youtube_icon.png
+        ../../../Downloads/3992584-uhd_4096_2160_25fps.mp4
+        ../../../Downloads/3StagHead.png
+        ../../../Downloads/3dth-desert.jpeg
+        ../../../Downloads/3rd-pizza.jpg
+        ../../../Downloads/4th-desert.jpeg
+        ../../../Downloads/4th-pizza.jpeg
+        ../../../Downloads/5birds.jpeg
+        ../../../Downloads/5th-desert.jpeg
+        ../../../Downloads/5th-pizza.jpeg
+        ../../../Downloads/7th-desert.jpeg
+db16505e1_examine_the_page (1).zip
+db16505e1_examine_the_page (2).zip
+db16505e1_examine_the_page (2)/
+db16505e1_examine_the_page (3).zip
+db16505e1_examine_the_page.zip
+        ../../../Downloads/AGRICULTURE-MACHINERY.jpg
+        ../../../Downloads/AI pyfriend_files/
+        ../../../Downloads/About us file page.html
+        ../../../Downloads/About us file page_files/
+        ../../../Downloads/Abstract-Logo.jpg
+        ../../../Downloads/After-shave-lotion.jpg
+        ../../../Downloads/Air Pistols.jpg
+        ../../../Downloads/Airways-jet-sky.jpg
+        ../../../Downloads/Airways-repair-center-room
+        ../../../Downloads/Alan_Sans.zip
+        ../../../Downloads/Alessandra-Manzotti.jpeg
+        ../../../Downloads/Andreas-Kremer.jpeg.jpeg
+        ../../../Downloads/Arnold-Classic-Bodybuilding-winners.jpg       
+Fuemen,Kanit,Playfair_Display.zip
+t,Playfair_Display.zip
+lay.zip
+p
+        ../../../Downloads/Atkinson_Hyperlegible_Mono.zip
+        ../../../Downloads/Auto-Spare-Parts.jpg
+        ../../../Downloads/Autopartsimage.jpeg
+        ../../../Downloads/AvonImage.jpeg
+        ../../../Downloads/Avonmagazine.jpg
+        ../../../Downloads/Avonsystem.jpeg
+        ../../../Downloads/Bali-bele.png
+        ../../../Downloads/Beauty-brand.jpeg
+        ../../../Downloads/Big-Mac-Extra-value.png
+        ../../../Downloads/BigDevsoftware-main.zip
+hunywa-1224_BigDevsoftware.html"
+        ../../../Downloads/Bigboxmeal.jpeg
+        ../../../Downloads/Birthday-cake.png
+        ../../../Downloads/Black-body-build.png
+        ../../../Downloads/Black-jacket.jpeg
+        ../../../Downloads/Block-musicSound.jpg
+        ../../../Downloads/Block-rims.jpg
+        ../../../Downloads/Block-tyreimage.jpg
+        ../../../Downloads/Boardroom-image.png
+        ../../../Downloads/Bowl-ice-Cream.jpeg.jpg
+        ../../../Downloads/BritishAirways.jpg
+        ../../../Downloads/Brown Bread.jpg
+        ../../../Downloads/Burger-01.jpeg
+        ../../../Downloads/Burger-04.jpeg
+        ../../../Downloads/Burger-beverages.jpg
+        ../../../Downloads/Burgers.jpeg
+        ../../../Downloads/Butcher-stuff.jpeg
+        ../../../Downloads/Butchery-pic-1.jpg
+        ../../../Downloads/Butchery-pic.jpeg
+        ../../../Downloads/CBD-menu-mcdonald.jpg
+        ../../../Downloads/CODE.html
+        ../../../Downloads/CODE_files/
+        ../../../Downloads/CSS-LOG-image.jpg
+        ../../../Downloads/CSS-icon-png.png
+        ../../../Downloads/Carparts.jpeg.jpeg
+        ../../../Downloads/Carparts01.jpeg
+        ../../../Downloads/Chicken-1.jpeg
+        ../../../Downloads/Classic-technical-finishes.jpg
+        ../../../Downloads/Cocktaildrinks.jpeg
+        ../../../Downloads/Coffee-1.jpeg
+        ../../../Downloads/Coffee-2.jpg
+        ../../../Downloads/Coffee-3.jpeg
+        ../../../Downloads/Coffee-and-tea-6.jpg
+        ../../../Downloads/Coffee-beans.jpg
+        ../../../Downloads/Coffee-place-1.jpg
+        ../../../Downloads/Coffee-place-2.jpg
+        ../../../Downloads/Coffee-place-3.jpg
+        ../../../Downloads/Coffee-relax-shop.jpg_.avif
+        ../../../Downloads/Commit-2-cause.jpeg
+        ../../../Downloads/Contact.html
+        ../../../Downloads/Cow-pictute-desktop.jpg
+        ../../../Downloads/Cows-images.jpeg
+        ../../../Downloads/Crispy-french-fries.jpeg
+        ../../../Downloads/Cupcakes-1.jpeg
+        ../../../Downloads/DIYsandwich.jpeg
+        ../../../Downloads/DOC-20251126-WA0003_
+        ../../../Downloads/DOC-20251126-WA0004_
+        ../../../Downloads/DOC-20251126-WA0004_ (1)
+        ../../../Downloads/Dairt-milk-chocolate.jpeg
+        ../../../Downloads/Dairy-buble.jpeg
+        ../../../Downloads/Dairy-silk.jpeg
+        ../../../Downloads/Dairy-yoghurt.jpg
+        ../../../Downloads/Definition-Tech
+        ../../../Downloads/Delicious-deco-table.jpeg
+        ../../../Downloads/Design-build.png
+        ../../../Downloads/Discord.dmg
+        ../../../Downloads/DiscordSetup (1).exe
+        ../../../Downloads/DiscordSetup (2).exe
+        ../../../Downloads/DiscordSetup (3).exe
+        ../../../Downloads/DiscordSetup.exe
+        ../../../Downloads/Dish-burger.jpg
+        ../../../Downloads/Document 3.pdf
+        ../../../Downloads/Document.html
+        ../../../Downloads/Dog picture-desktop.jpg
+        ../../../Downloads/Dogies.jpeg
+        ../../../Downloads/Dove-logo.png
+        ../../../Downloads/Downloads - Shortcut.lnk
+        ../../../Downloads/Dr A Levitz.jpeg
+        ../../../Downloads/Drivers lessons.jpeg
+        ../../../Downloads/Driving Licence Form.pdf
+        ../../../Downloads/DvBox.html
+        ../../../Downloads/Earphone.jpeg
+        ../../../Downloads/Edukate-1.0.0.zip
+        ../../../Downloads/Edukate-1.0.0/
+        ../../../Downloads/Electro-Bootstrap-1.0.0.zip
+        ../../../Downloads/Electro-Bootstrap-1.0.0/
+        ../../../Downloads/Electronic-device.jpeg
+        ../../../Downloads/Electronic-gadgets.jpg
+        ../../../Downloads/Emirate-Jet.jpg
+a (2014).pdf"
+        ../../../Downloads/External Drive.dbx-external-drive.zip
+        ../../../Downloads/Eye.jpeg
+        ../../../Downloads/Face-image.png
+        ../../../Downloads/Facebuk-icon.jpeg
+        ../../../Downloads/Family-mcdonalds.jpeg
+        ../../../Downloads/Famous-books-and-authors.jpg
+        ../../../Downloads/Farming-project.jpeg
+        ../../../Downloads/FbI Glock.jpeg
+        ../../../Downloads/Feane.html
+        ../../../Downloads/Feane_files/
+        ../../../Downloads/Field-plough.jpeg
+        ../../../Downloads/Files (1).zip
+        ../../../Downloads/Files.zip
+        ../../../Downloads/Fin-NEW-LOGO.png
+        ../../../Downloads/Finger_lickInMob.fc23e8b1.svg
+        ../../../Downloads/Finished-production.jpg
+        ../../../Downloads/Fish and chips.jpeg
+        ../../../Downloads/Flied-farming.jpg
+        ../../../Downloads/Flower-2.jpg
+        ../../../Downloads/Flower-3.jpg
+        ../../../Downloads/Flower-4.jpg
+        ../../../Downloads/Flower-5.jpg
+        ../../../Downloads/Flower-6.jpg
+        ../../../Downloads/Flower-funeral-logo.png
+        ../../../Downloads/Flower1.jpeg
+        ../../../Downloads/Folk&Knife.jpeg
+        ../../../Downloads/Food&Beverages.jpg
+        ../../../Downloads/Food&Drinks.jpg
+        ../../../Downloads/Food&bev-alcohol.jpg
+        ../../../Downloads/Food-collection-deco.jpg
+        ../../../Downloads/Food-drink-tagline.jpg
+        ../../../Downloads/Food-rest-logo.jpg
+        ../../../Downloads/FoodMart-1.0.0.zip
+        ../../../Downloads/FoodMart-1.0.0/
+        ../../../Downloads/Free-logo.png
+        ../../../Downloads/Free.Bundle.2023.zip
+        ../../../Downloads/Free.Bundle.2023/
+        ../../../Downloads/French-fries.jpeg
+        ../../../Downloads/Fries-logo.jpg
+        ../../../Downloads/Fun-Cakes.jpeg
+        ../../../Downloads/Funeral-bg-1.jpg
+        ../../../Downloads/Funeral-bg.jpg
+        ../../../Downloads/Git-2.51.2-64-bit.exe
+        ../../../Downloads/Git-2.52.0-64-bit.exe
+        ../../../Downloads/Github-image.jpeg
+        ../../../Downloads/Glock.jpeg
+ecials..html
+        ../../../Downloads/Gray birds.jpeg
+        ../../../Downloads/HTML-image.jpg
+        ../../../Downloads/Hair-logo.jpeg
+        ../../../Downloads/Headline News file.html
+        ../../../Downloads/Headline News file_files/
+7\222\223.png"
+        ../../../Downloads/Hinooilfilter.jpeg
+        ../../../Downloads/Hnsom-horses.png
+        ../../../Downloads/Holy-bible-2.jpg
+        ../../../Downloads/Hot-coffee.jpg
+        ../../../Downloads/House-image.jpeg
+        ../../../Downloads/ICDL Certificate Reprint (1).pdf
+        ../../../Downloads/ICDL Certificate Reprint (2).pdf
+        ../../../Downloads/ICDL Certificate Reprint.pdf
+        ../../../Downloads/InstallVideoPadVideoEditor_0zpQF.exe
+        ../../../Downloads/Inter,Lato,Roboto.zip
+        ../../../Downloads/JQuery icon.png
+        ../../../Downloads/Job Placements CV Upload.html
+        ../../../Downloads/KFC.jpeg
+lonel__Hero_Burger__41998_Crop.webp
+__Plate_for_Gravy_Drip__41898_Hand_Crop.webp
+        ../../../Downloads/KFC_drinks.jpeg.webp
+        ../../../Downloads/KFC_logo-image.svg.png
+        ../../../Downloads/Kelly-1.0.0.zip
+        ../../../Downloads/Kelly-1.0.0/
+        ../../../Downloads/Kfc.jpeg.webp
+        ../../../Downloads/LP_Photo_Family.jpeg
+        ../../../Downloads/Lala-Azizli.jpg
+        ../../../Downloads/Lamb-1.jpeg
+        ../../../Downloads/Lamb-2.jpeg
+        ../../../Downloads/Lamb-3.jpeg
+        ../../../Downloads/Lamb-4.jpeg
+        ../../../Downloads/Lamb-5
+        ../../../Downloads/Lamb-5.jpeg
+        ../../../Downloads/Lamb-6.jpeg
+        ../../../Downloads/Lamb-7.jpeg
+        ../../../Downloads/Lamb-8.jpeg
+        ../../../Downloads/Laptop-image.jpeg
+        ../../../Downloads/Laptop-linux.jpeg.jpeg
+        ../../../Downloads/Libray-books.jpeg
+        ../../../Downloads/Liyasa-funeral.jpeg
+        ../../../Downloads/Logowebpage.png
+        ../../../Downloads/Lost-city-01.jpeg
+        ../../../Downloads/Lounge-1.0.0.zip
+        ../../../Downloads/Lounge-1.0.0/
+        ../../../Downloads/Lovely-pet.png
+        ../../../Downloads/M macdonalds.jpeg
+        ../../../Downloads/MAQ.jpeg.jpeg
+        ../../../Downloads/MY_CV.PDF. (1).pdf
+        ../../../Downloads/MY_CV.PDF..pdf
+        ../../../Downloads/Mars-soil.jpeg
+        ../../../Downloads/Meat-1.jpeg
+        ../../../Downloads/MediLab-1.0.0.zip
+        ../../../Downloads/MediLab-1.0.0/
+        ../../../Downloads/Medical Certificate Form.pdf
+        ../../../Downloads/Medical_certificate.pdf
+        ../../../Downloads/Menu-book.jpeg
+        ../../../Downloads/Metronic-Shop-UI-master.zip
+        ../../../Downloads/Metronic-Shop-UI-master/
+        ../../../Downloads/Meyers-cars.jpeg
+        ../../../Downloads/MiniStore-1.0.0.zip
+        ../../../Downloads/Missing-journalist.jpg
+        ../../../Downloads/Mobile-device.jpg
+        ../../../Downloads/Montserrat,Roboto_Mono,Sigmar.zip
+        ../../../Downloads/Montserrat,Sigmar.zip
+        ../../../Downloads/Montserrat.zip
+        ../../../Downloads/Mothers day boutique.jpg
+        ../../../Downloads/Movie-Wall.jpeg
+        ../../../Downloads/MystiCart.html
+02801.pdf
+        ../../../Downloads/National-ID-1.pdf
+        ../../../Downloads/Netflix-01.jpeg
+        ../../../Downloads/Nicepage-7.8.23 (1).exe
+        ../../../Downloads/Nicepage-7.8.23.exe
+        "../../../Downloads/Nicol\303\262-Taborra.jpeg"
+        ../../../Downloads/No hair-cream.jpg
+        ../../../Downloads/Ntsigodoc (1).pdf
+        ../../../Downloads/Ntsigodoc.pdf
+        ../../../Downloads/OBS-Studio-31.0.1-Windows-Installer (2).exe   
+        ../../../Downloads/OBS-Studio-31.0.1-Windows-Installer.exe       
+        ../../../Downloads/Obituary Funeral Card.mhtml
+        ../../../Downloads/Obituary-PDF.pdf
+        ../../../Downloads/Obituary.html
+        ../../../Downloads/OilFilter.jpeg
+        ../../../Downloads/OilFilter_1.jpeg
+        ../../../Downloads/OilFilterparts.jpeg
+        ../../../Downloads/Onions-images01.jpeg
+        ../../../Downloads/Onionsimages.jpeg
+        ../../../Downloads/Orbituary file-doc (1).pdf
+        ../../../Downloads/Orbituary file-doc (2).pdf
+        ../../../Downloads/Orbituary file-doc.pdf
+        ../../../Downloads/PDF Oct 02,2025.pdf
+        ../../../Downloads/PDF.pdf
+        ../../../Downloads/Patrick restaurant file page.html
+        ../../../Downloads/Patrick restaurant file page_files/
+f
+f
+).pdf
+).pdf
+f
+        ../../../Downloads/Philip-image.jpeg
+        ../../../Downloads/Pigs-image.jpeg
+        ../../../Downloads/Playfair_Display,Poppins (1).zip
+        ../../../Downloads/Playfair_Display,Poppins.zip
+        ../../../Downloads/Playfair_Display.zip
+        ../../../Downloads/Playplace-macdonalds.jpeg
+        ../../../Downloads/Polo-tsi.jpeg.jpeg
+        ../../../Downloads/Pork-1.jpeg
+        ../../../Downloads/Pork-2.jpg
+        ../../../Downloads/Pork-3.jpg
+        ../../../Downloads/Pork-4.jpg
+        ../../../Downloads/Pork-5.jpg
+        ../../../Downloads/Pork-6.jpg
+        ../../../Downloads/Poster-2022-The-Lost-City-1448x2048-1.jpg     
+        ../../../Downloads/PowerShell-7.5.4-win-x64.msi
+        ../../../Downloads/Princess-cake.jpeg
+        ../../../Downloads/PrismVideoConverter.exe
+        ../../../Downloads/ProductGym.webp
+        ../../../Downloads/Professional Driving Permit Form.pdf
+.jpg
+        "../../../Downloads/Quick Start \342\200\223 React.html"
+        "../../../Downloads/Quick Start \342\200\223 React_files/"       
+        ../../../Downloads/Rassian-food-bev.jpg
+        ../../../Downloads/React.js.png
+        ../../../Downloads/Recipe-icon.jpeg
+        ../../../Downloads/Remington-image.png
+        ../../../Downloads/Rental-car.png
+        ../../../Downloads/Rental-car01
+        ../../../Downloads/Robben-island-image.jpeg
+        ../../../Downloads/Robot-production-line.jpg
+        ../../../Downloads/Roboto (1).zip
+        ../../../Downloads/Roboto (2).zip
+        ../../../Downloads/Roboto (2)/
+        ../../../Downloads/Roboto,Winky_Rough.zip
+        ../../../Downloads/Roboto.zip
+        ../../../Downloads/Romantic-flowers.jpeg
+        ../../../Downloads/Royal-free-dogjpeg.jpeg
+        ../../../Downloads/SA-Jet.jpg
+        ../../../Downloads/SA-corrupt-officials.jpeg
+        ../../../Downloads/SAFlag.jpeg
+        ../../../Downloads/Sasko-01.jpeg
+        ../../../Downloads/Sasko-bread.jpeg
+        ../../../Downloads/Screenshot 2025-11-11 135644.png
+        ../../../Downloads/Screenshot_11-11-2025_221821_127.0.0.1.jpeg   
+        ../../../Downloads/Sea picture-cartoon.jpg
+ngs_Plate_Crop.webp
+        ../../../Downloads/Shave-Gel.jpg
+        ../../../Downloads/Shave-foam.jpg
+        ../../../Downloads/Shaving-cream.jpg
+        ../../../Downloads/Slingshot-.jpg
+        ../../../Downloads/Social media (1).html
+        ../../../Downloads/Social media.html
+        ../../../Downloads/Soda-drinks-2.jpg
+        ../../../Downloads/SoftDevice.jpg
+        ../../../Downloads/Software Programs.jpg
+        ../../../Downloads/Software-Api-tool.jpeg
+        ../../../Downloads/Software-Dev-pro.jpg
+        ../../../Downloads/Software-engineers.jpeg
+        ../../../Downloads/Software-profile.png
+        ../../../Downloads/Software-tools.jpeg
+        ../../../Downloads/Soll.style.html
+        ../../../Downloads/SollyTradinHours.png
+        ../../../Downloads/SollysMenu.jpeg
+        ../../../Downloads/Sooly.jpeg
+        ../../../Downloads/South-Africa-image.jpeg
+        ../../../Downloads/South-African-Airways.png
+        ../../../Downloads/Space_Mono (1).zip
+        ../../../Downloads/Space_Mono.zip
+        ../../../Downloads/Statement file page.html
+        ../../../Downloads/Statement file page_files/
+        ../../../Downloads/SteveSLee_resume.pdf
+        ../../../Downloads/Streetwise_Feast_1200x900.webp
+        ../../../Downloads/Strikingly.html
+        ../../../Downloads/Strikingly_files/
+        ../../../Downloads/Suv-mercedes.jpeg
+        ../../../Downloads/T shirt-01.jpeg
+        ../../../Downloads/T shirt-02.jpeg
+        ../../../Downloads/TC-Disrupt.webp
+        ../../../Downloads/Taco shop.png
+        ../../../Downloads/Tacos-shop.avif
+        ../../../Downloads/Target-line.jpeg
+        ../../../Downloads/Tea_coffee-4.jpg
+        ../../../Downloads/Tech-device.jpeg
+        ../../../Downloads/Technical finishes.jpg
+        ../../../Downloads/Technical-chain.jpg
+        ../../../Downloads/Technical-fished-line.jpg
+        ../../../Downloads/Techno-factory.jpg
+        ../../../Downloads/Techno-gadget.jpeg
+        ../../../Downloads/TechnoWorld.jpeg
+        ../../../Downloads/Techo-fished-cars.jpeg
+        ../../../Downloads/Telkom file page.html
+        ../../../Downloads/Telkom file page_files/
+me, Jewelry &amp; More.html
+me, Jewelry &amp; More_files/
+        ../../../Downloads/The earth device.jpeg
+        ../../../Downloads/The sausage-rebelion.jpeg
+        ../../../Downloads/Theft-image.jpg
+tml
+        ../../../Downloads/Top-deck.jpeg
+        ../../../Downloads/TotalAV_Setup.exe
+        ../../../Downloads/Toughbody.jpeg
+        ../../../Downloads/Tradinghours.jpeg
+        ../../../Downloads/Tree-images.jpeg
+        ../../../Downloads/Unicorn-icon.jpeg
+        ../../../Downloads/Unisa-logo.png
+        ../../../Downloads/United-Airways.jpg
+        ../../../Downloads/Untitled document.pdf
+        ../../../Downloads/Untitled document.txt
+        ../../../Downloads/VSCodeUserSetup-x64-1.98.2 (1).exe
+        ../../../Downloads/VSCodeUserSetup-x64-1.98.2.exe
+        ../../../Downloads/Vegetarian-pizza.jpeg
+        ../../../Downloads/Visual studio-image.jpg
+        ../../../Downloads/W3Schools Tryit Editor.html
+        ../../../Downloads/Watermountain.jpeg (1).mp4
+        ../../../Downloads/Watermountain.jpeg.mp4
+        ../../../Downloads/We-graphics.jpg
+        ../../../Downloads/Web-design.jpg
+        ../../../Downloads/WhatsApp Installer (1).exe
+        ../../../Downloads/WhatsApp Installer (2).exe
+        ../../../Downloads/WhatsApp Installer.exe
+        ../../../Downloads/WhatsApp-2.24.25.94.dmg
+        ../../../Downloads/WhiteBread.jpeg
+        ../../../Downloads/Wine-spactacle.jpeg.jpg
+        ../../../Downloads/Winky_Rough.zip
+        ../../../Downloads/Wrapped-fries.jpeg
+        ../../../Downloads/Youth-motivator.jpeg.webp
+        ../../../Downloads/Youth-play.jpeg.jpg
+        ../../../Downloads/about (1).pdf
+        ../../../Downloads/about.html
+        ../../../Downloads/about.pdf
+        ../../../Downloads/added-fries-tomato.jpeg
+        ../../../Downloads/african-couple-cinema.jpg
+        ../../../Downloads/african-tea-family.jpg
+        ../../../Downloads/air-riffle.jpeg.jpg
+        ../../../Downloads/alex-stone-efgeem63rPc-unsplash.jpg
+        ../../../Downloads/alison-logo.png
+        ../../../Downloads/almost-ready-car.jpg
+        ../../../Downloads/amado-master.zip
+        ../../../Downloads/amado-master/
+        ../../../Downloads/amasi-extra-cream.jpg
+        ../../../Downloads/amazing-burger.jpg
+        ../../../Downloads/amazing-pizza.jpeg
+        ../../../Downloads/american_airbus.jpg
+        ../../../Downloads/animal-avian-birds.jpg
+        ../../../Downloads/animal1.jpeg
+        ../../../Downloads/animals-4004836_640 (1).jpg
+        ../../../Downloads/animals-4004836_640.jpg
+        ../../../Downloads/animals-nature-birds.jpg
+        ../../../Downloads/animals2.jpeg
+        ../../../Downloads/animals3.jpeg
+        ../../../Downloads/ashion-master.zip
+        ../../../Downloads/ashion-master/
+        ../../../Downloads/auto-spare.jpg
+        ../../../Downloads/avast_antitrack_online_setup (1).exe
+        ../../../Downloads/avast_antitrack_online_setup (2).exe
+        ../../../Downloads/avast_antitrack_online_setup.exe
+        ../../../Downloads/avast_free_antivirus_setup_online (1).exe     
+        ../../../Downloads/avast_free_antivirus_setup_online.exe
+        ../../../Downloads/avast_premium_security_setup_online (1).exe   
+        ../../../Downloads/avast_premium_security_setup_online.exe       
+        ../../../Downloads/baby-chicken.jpeg
+        ../../../Downloads/balck-farmers-images.jpeg
+        ../../../Downloads/bckground-image.jpeg.jpeg
+        ../../../Downloads/bear-img.jpeg
+        ../../../Downloads/beautiful-color-birds.jpg
+        ../../../Downloads/beautiful-nature.jpeg.jpeg
+        ../../../Downloads/believe-master.zip
+        ../../../Downloads/believe-master/
+        ../../../Downloads/best-mercedes-background.jpeg
+        ../../../Downloads/bestgymproducts.jpeg.jpeg
+        ../../../Downloads/bible-image.jpeg
+        ../../../Downloads/big-fernand-burger-hongkong1.jpg
+        ../../../Downloads/bike-icon2.webp
+        ../../../Downloads/bird-flyer.jpg
+        ../../../Downloads/birthday-sonic.jpeg
+        ../../../Downloads/biscuit.jpg
+        ../../../Downloads/biscuits-tea.jpeg
+        ../../../Downloads/black-mercedes.jpeg
+        ../../../Downloads/blackberry-cheese.jpeg.jpg
+        ../../../Downloads/blend-classic-burger.jpg
+        ../../../Downloads/body-builder-2.jpg
+        ../../../Downloads/body-builder-3.png
+        ../../../Downloads/body-builder-6.jpg
+        ../../../Downloads/body-builder-zone.jpg
+        ../../../Downloads/bodybuilder-man-posing.jpg
+        ../../../Downloads/book2.png
+        ../../../Downloads/book5.jpeg
+        ../../../Downloads/booklistshighres.jpeg
+        ../../../Downloads/books-image.jpeg.jpeg
+        ../../../Downloads/booksaw-1.0.0.zip
+        ../../../Downloads/booksaw-1.0.0/
+        ../../../Downloads/bookshelf.png
+        ../../../Downloads/bootstrap-5.0.2-dist.zip
+        ../../../Downloads/bootstrap-5.0.2-dist/
+        ../../../Downloads/bootstrap-5.2.3-dist.zip
+        ../../../Downloads/bootstrap-5.2.3-examples (1).zip
+        ../../../Downloads/bootstrap-5.2.3-examples (2).zip
+        ../../../Downloads/bootstrap-5.2.3-examples.zip
+        ../../../Downloads/bootstrap-5.3.8-dist (1).zip
+        ../../../Downloads/bootstrap-5.3.8-dist.zip
+        ../../../Downloads/bootstrap-5.3.8-examples (1).zip
+        ../../../Downloads/bootstrap-5.3.8-examples.zip
+        ../../../Downloads/bootstrap-5.3.8.zip
+        ../../../Downloads/bouchee-burger.jpg
+        ../../../Downloads/braai-fires.jpg
+        ../../../Downloads/brain.jpeg
+        ../../../Downloads/brake-disc.jpg
+        ../../../Downloads/brake-pads-1.jpeg
+        ../../../Downloads/brake-pads-2.jpg
+        ../../../Downloads/brake-pads.jpg
+        ../../../Downloads/brand-new-Q.jpeg.jpeg
+        ../../../Downloads/brew-tea.jpeg
+        ../../../Downloads/browse2.css
+        ../../../Downloads/btnmenu5.exe
+        ../../../Downloads/budasm.jpeg.jpeg
+        ../../../Downloads/buns-tea.jpeg
+        ../../../Downloads/butcher-pic-2.jpg
+        ../../../Downloads/butcher-shop-meat-price.jpg
+        ../../../Downloads/butchery-decor.jpg
+        ../../../Downloads/cake-1.jpeg
+        ../../../Downloads/cake-2.jpeg
+        ../../../Downloads/cake-3.jpeg
+        ../../../Downloads/cake-4.jpeg
+        ../../../Downloads/cake-brown.png
+        ../../../Downloads/cake-ingredients.jpeg.jpeg
+        ../../../Downloads/cake-velvet.png
+        ../../../Downloads/cakeLogo.jpeg
+        ../../../Downloads/cakeMenu.jpg
+        ../../../Downloads/calendar-regular-full.svg
+        ../../../Downloads/camera-01.jpeg
+        ../../../Downloads/camera.jpeg
+        ../../../Downloads/car-parts-spares.jpg
+        ../../../Downloads/car-production-line.jpg
+        ../../../Downloads/car.png
+        ../../../Downloads/cardbury dairy.jpeg
+        ../../../Downloads/carouse-parts.jpg
+        ../../../Downloads/cartoon-bird.jpeg
+        ../../../Downloads/cartoon-fries.jpeg
+        ../../../Downloads/cartoon-pic-cheff.jpg
+        ../../../Downloads/cartoonchef.jpeg.jpg
+        ../../../Downloads/cater-equipment.jpg
+        ../../../Downloads/ceramic-brake-disc.jpg
+        ../../../Downloads/ceramic-series-disc-brake.jpg
+        ../../../Downloads/chanel-logo-1.jpeg
+        ../../../Downloads/chanel-logo.jpeg
+        ../../../Downloads/cheese-cake.jpeg (2).jpg
+        ../../../Downloads/cheese-cake.jpeg.jpg
+        ../../../Downloads/chef-hamburger.png
+        ../../../Downloads/cheffsDairy.jpeg.png
+        ../../../Downloads/chefs-cartoon.jpeg
+        ../../../Downloads/chefs01.jpeg.jpeg
+        ../../../Downloads/chefs02.jpg
+        ../../../Downloads/chefs03.jpeg
+        ../../../Downloads/chefscartoon.jpeg.jpeg
+        ../../../Downloads/chefsimage.png
+        ../../../Downloads/chichi-ilyass-rSPRefpQetk-unsplash.jpg        
+        ../../../Downloads/chicken-2.jpg
+        ../../../Downloads/chicken-3.png
+        ../../../Downloads/chicken-4.jpg
+        ../../../Downloads/chicken-5.jpg
+        ../../../Downloads/chicken-6.jpg
+        ../../../Downloads/chicken-meat-1.jpeg
+        ../../../Downloads/chicken-meat.jpeg
+        ../../../Downloads/chocolate-01-cake.jpeg
+        ../../../Downloads/chocolate-cake.jpg
+        ../../../Downloads/chrome.exe
+        ../../../Downloads/cinema.jpeg
+        ../../../Downloads/ciqf7ocw.png
+        ../../../Downloads/classic-burder-2.jpg
+        ../../../Downloads/classic-burger-1.jpeg
+        ../../../Downloads/classic-burger-3.jpeg
+        ../../../Downloads/classic-burger-4.jpg
+        ../../../Downloads/classic-burger-5.jpg
+        ../../../Downloads/classic-burger-6.jpg
+        ../../../Downloads/classic-burger-7.jpeg
+        ../../../Downloads/classic-burger-8.jpg
+        ../../../Downloads/cloudy-image.jpeg
+        ../../../Downloads/coffe-tea-2.jpg
+        ../../../Downloads/coffee-and-tea-1.jpg
+        ../../../Downloads/coffee-and-tea.jpg
+        ../../../Downloads/coffee-biscuits.jpeg
+        ../../../Downloads/coffee-brain-caffeine.jpeg
+        ../../../Downloads/coffee-img.jpg
+        ../../../Downloads/coffee-machine.jpeg
+        ../../../Downloads/coffee-milk-biscuit.jeg
+        ../../../Downloads/coffee-tea-3.jpg
+        ../../../Downloads/collection-spare.jpg
+        ../../../Downloads/collest-car01.jpeg.jpeg
+        ../../../Downloads/computer-brain.webp
+        ../../../Downloads/computer-compus.jpg
+        ../../../Downloads/computer-tools.jpeg
+        ../../../Downloads/cookies-tea.jpeg
+        ../../../Downloads/coolest-car.jpeg
+        ../../../Downloads/corn-fries.jpg
+        ../../../Downloads/corolla-New.jpg
+        ../../../Downloads/couple-ago.jpeg
+        ../../../Downloads/couple-watching-streaming-service-home.jpg    
+        ../../../Downloads/cow-goat-sheep.jpeg
+        ../../../Downloads/cow-image.jpg
+        ../../../Downloads/cow-sheep.jpeg
+        ../../../Downloads/cozastore-master.zip
+        ../../../Downloads/crew-stuff.jep.jpeg
+        ../../../Downloads/crispy-fries.jpeg
+        ../../../Downloads/crying-eye.jpeg
+        ../../../Downloads/css-image.jpeg
+        ../../../Downloads/css_01.html
+        ../../../Downloads/cupcake-01.png
+        ../../../Downloads/cupcakes.jpg
+        ../../../Downloads/cut-dog.jpeg
+        ../../../Downloads/cutty-cat.jpeg
+        ../../../Downloads/dare-devil.jpeg
+        ../../../Downloads/deco-tea-coffee.jpg
+        ../../../Downloads/decorated-fries.jpeg
+        ../../../Downloads/deep-fryer.jpeg
+        ../../../Downloads/delicious-food-drinks.jpg
+        ../../../Downloads/desert-cake.png.jpg
+        ../../../Downloads/desert.jpeg.webp
+        ../../../Downloads/desktop.ini
+        ../../../Downloads/dessert-01.jpeg
+        ../../../Downloads/dessert-02.jpeg
+        ../../../Downloads/dessert-03.jpeg
+        ../../../Downloads/dessert-04
+        ../../../Downloads/digital-img.jpg
+        ../../../Downloads/digmachine.jpeg.png
+        ../../../Downloads/dining-burger.jpg
+        ../../../Downloads/dinosaur.png.mp4
+        ../../../Downloads/discord-0.0.93.deb
+        ../../../Downloads/dissar.png
